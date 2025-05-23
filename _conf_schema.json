@@ -1,0 +1,11 @@
+{
+    "api_key": {
+        "type": "string",
+        "description": "阿里云API密钥"
+    },
+    "model_name": {
+        "type": "string",
+        "description": "模型名称",
+        "default": "wanx2.1-t2i-turbo"
+    }
+}
